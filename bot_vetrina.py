@@ -1,4 +1,4 @@
-cat > bot_vetrina.py << 'EOF'
+cat > bot_telegram.py << 'EOF'
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
